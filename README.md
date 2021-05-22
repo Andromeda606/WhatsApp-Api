@@ -11,6 +11,7 @@ python -m pip install -r requirements.txt
 Here is an example
 
 ```Python
+import WhatsApp
 a = WhatsApp("TEST", r"GECKODRIVER PATH")
 print(a.login(showImg=False))
 print(a.send_message("NUMBER", "THIS IS TEST MESSAGE"))
