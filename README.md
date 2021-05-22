@@ -1,7 +1,11 @@
 # WhatsApp-Api
 WhatsApp Unofficial Api via Python Selenium
 
+# Setup
 
+```
+python -m pip install -r requirements.txt
+```
 
 # How to use
 Here is an example
